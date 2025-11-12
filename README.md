@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Fernando Pereira
+# 🧑‍💻 Fernando Pereira
 
 **`Desenvolvedor FullStack`**
 
